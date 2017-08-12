@@ -8,7 +8,7 @@ import pickle
 from pyquery import PyQuery
 
 """表单数据说明
-password:        输入的密码，明文
+password:        输入的密码，明文 #我是用手机号登录，邮箱应该也可以
 savestate:      好像只能是 1
 r:      refer  # http://m.weibo.cn/ # 应该是最开始的触发网址，一般都是这个
 ec:         ERROR_COUNT # 帐号/密码出错次数
